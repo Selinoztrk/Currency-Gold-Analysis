@@ -44,7 +44,7 @@ This project fetches daily exchange and gold rates, stores them locally, and vis
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/Selinoztrk/project-name.git
+git clone https://github.com/Selinoztrk/Currency-Gold-Analysis.git
 cd project-name
 pip install -r requirements.txt
 python main.py
